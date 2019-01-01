@@ -7,3 +7,6 @@
 [submodule "bundle/setcolors"]
 	path = bundle/setcolors
 	url = https://github.com/felixhummel/setcolors.vim.git
+[submodule "bundle/vim-gitgutter"]
+	path = bundle/vim-gitgutter
+	url = git://github.com/airblade/vim-gitgutter.git

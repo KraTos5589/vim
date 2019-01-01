@@ -14,3 +14,5 @@ Copied from [synchronizing plugins with git and pathogen](http://vimcasts.org/ep
     >Color Schemes for vim
 * [Set Colors](https://github.com/felixhummel/setcolors.vim)
     >Used to Quickly switch color themes
+* [Vim Gutter](https://github.com/airblade/vim-gitgutter)
+    >Used to show git diff in vim window

@@ -1,5 +1,5 @@
-[submodule "/Users/lokeshpant/.vim/bundle/colorschemes"]
-	path = /Users/lokeshpant/.vim/bundle/colorschemes
+[submodule "bundle/colorschemes"]
+	path = bundle/colorschemes
 	url = https://github.com/flazz/vim-colorschemes.git
 [submodule "bundle/fugitive"]
 	path = bundle/fugitive

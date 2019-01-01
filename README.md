@@ -12,3 +12,5 @@ Copied from [synchronizing plugins with git and pathogen](http://vimcasts.org/ep
     >Git wrapper
 * [Color Schemes](https://github.com/flazz/vim-colorschemes)
     >Color Schemes for vim
+* [Set Colors](https://github.com/felixhummel/setcolors.vim)
+    >Used to Quickly switch color themes

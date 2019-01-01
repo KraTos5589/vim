@@ -46,7 +46,8 @@ set bg=dark
 
 "syntax highlighting
 syntax on
-color slate
 
 " Pathogen
 execute pathogen#infect()
+
+color molokai

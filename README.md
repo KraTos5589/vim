@@ -10,3 +10,5 @@ Copied from [synchronizing plugins with git and pathogen](http://vimcasts.org/ep
 
 * [Fugitive](https://github.com/tpope/vim-fugitive)
     >Git wrapper
+* [Color Schemes](https://github.com/flazz/vim-colorschemes)
+    >Color Schemes for vim

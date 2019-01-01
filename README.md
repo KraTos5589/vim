@@ -16,3 +16,5 @@ Copied from [synchronizing plugins with git and pathogen](http://vimcasts.org/ep
     >Used to Quickly switch color themes
 * [Vim Gutter](https://github.com/airblade/vim-gitgutter)
     >Used to show git diff in vim window
+* [Vim Airline](https://github.com/vim-airline/vim-airline)
+    >Shows a statusline for vim at the bottom

@@ -32,3 +32,5 @@ Copied from [synchronizing plugins with git and pathogen](http://vimcasts.org/ep
     >This adds icons for different plugins
 * [Vim Polyglot](git@github.com:sheerun/vim-polyglot.git)
     >A collection of language packs for Vim.
+* [Indent Guides](https://github.com/nathanaelkane/vim-indent-guides)
+    >Indent Guides is a plugin for visually displaying indent levels in Vim.

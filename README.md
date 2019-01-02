@@ -30,3 +30,5 @@ Copied from [synchronizing plugins with git and pathogen](http://vimcasts.org/ep
     >This adds syntax for nerdtree on most common file extensions
 * [Vim Devicons](https://github.com/ryanoasis/vim-devicons.git)
     >This adds icons for different plugins
+* [Vim Polyglot](git@github.com:sheerun/vim-polyglot.git)
+    >A collection of language packs for Vim.

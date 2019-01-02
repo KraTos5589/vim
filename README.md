@@ -26,4 +26,5 @@ Copied from [synchronizing plugins with git and pathogen](http://vimcasts.org/ep
     >NERDTree is a file system explorer for Vim
 * [NERDTREE git plugin](https://github.com/Xuyuanp/nerdtree-git-plugin.git)
     >A plugin of NERDTree showing git status flags.
-
+* [NERDTREE Syntax Highlight](https://github.com/tiagofumo/vim-nerdtree-syntax-highlight.git)
+    >This adds syntax for nerdtree on most common file extensions

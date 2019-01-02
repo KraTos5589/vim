@@ -18,3 +18,5 @@ Copied from [synchronizing plugins with git and pathogen](http://vimcasts.org/ep
     >Used to show git diff in vim window
 * [Vim Airline](https://github.com/vim-airline/vim-airline)
     >Shows a statusline for vim at the bottom
+* [Tagbar](git://github.com/majutsushi/tagbar)
+    >A Class Outline Viewer for Vim

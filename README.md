@@ -22,4 +22,5 @@ Copied from [synchronizing plugins with git and pathogen](http://vimcasts.org/ep
     >A Class Outline Viewer for Vim
 * [Tabular](git://github.com/godlygeek/tabular.git)
     >Aligning Text. Look at [Aligning Tex with Tabular](http://vimcasts.org/episodes/aligning-text-with-tabular-vim/)
-
+* [NerdTree](https://github.com/scrooloose/nerdtree.git)
+    >NERDTree is a file system explorer for Vim

@@ -28,3 +28,5 @@ Copied from [synchronizing plugins with git and pathogen](http://vimcasts.org/ep
     >A plugin of NERDTree showing git status flags.
 * [NERDTREE Syntax Highlight](https://github.com/tiagofumo/vim-nerdtree-syntax-highlight.git)
     >This adds syntax for nerdtree on most common file extensions
+* [Vim Devicons](https://github.com/ryanoasis/vim-devicons.git)
+    >This adds icons for different plugins

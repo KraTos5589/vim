@@ -53,8 +53,11 @@ execute pathogen#infect()
 color molokai
 
 " How can I open a NERDTree automatically when vim starts up?
-autocmd vimenter * NERDTree
+"autocmd vimenter * NERDTree
 " Open NERDTree with Ctrl+n
 map <C-n> :NERDTreeToggle<CR>
 " How can I close vim if the only window left open is a NERDTree?
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
+
+"setting encoding for fonts
+set encoding=UTF-8

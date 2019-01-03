@@ -34,3 +34,15 @@ Copied from [synchronizing plugins with git and pathogen](http://vimcasts.org/ep
     >A collection of language packs for Vim.
 * [Indent Guides](https://github.com/nathanaelkane/vim-indent-guides)
     >Indent Guides is a plugin for visually displaying indent levels in Vim.
+
+
+### Plugins to be Added
+* [vim-startify](https://github.com/mhinz/vim-startify)
+* [vim-workspace](https://github.com/bagrat/vim-workspace)
+* [vim-flagship](https://github.com/tpope/vim-flagship)
+* [vim-syntastic](https://github.com/vim-syntastic/syntastic)
+* [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)
+* [vim-repeat](https://github.com/tpope/vim-repeat)
+* [vim-surround](https://github.com/tpope/vim-surround)
+* [youcompleteme](https://github.com/valloric/youcompleteme)
+* [nerd commenter](https://github.com/scrooloose/nerdcommenter)

@@ -18,9 +18,9 @@ Copied from [synchronizing plugins with git and pathogen](http://vimcasts.org/ep
     >Used to show git diff in vim window
 * [Vim Airline](https://github.com/vim-airline/vim-airline)
     >Shows a statusline for vim at the bottom
-* [Tagbar](git://github.com/majutsushi/tagbar)
+* [Tagbar](https://github.com/majutsushi/tagbar)
     >A Class Outline Viewer for Vim
-* [Tabular](git://github.com/godlygeek/tabular.git)
+* [Tabular](https://github.com/godlygeek/tabular)
     >Aligning Text. Look at [Aligning Tex with Tabular](http://vimcasts.org/episodes/aligning-text-with-tabular-vim/)
 * [NerdTree](https://github.com/scrooloose/nerdtree.git)
     >NERDTree is a file system explorer for Vim
@@ -30,7 +30,7 @@ Copied from [synchronizing plugins with git and pathogen](http://vimcasts.org/ep
     >This adds syntax for nerdtree on most common file extensions
 * [Vim Devicons](https://github.com/ryanoasis/vim-devicons.git)
     >This adds icons for different plugins
-* [Vim Polyglot](git@github.com:sheerun/vim-polyglot.git)
+* [Vim Polyglot](https://github.com/sheerun/vim-polyglott)
     >A collection of language packs for Vim.
 * [Indent Guides](https://github.com/nathanaelkane/vim-indent-guides)
     >Indent Guides is a plugin for visually displaying indent levels in Vim.

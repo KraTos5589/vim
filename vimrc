@@ -61,3 +61,10 @@ autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isT
 
 "setting encoding for fonts
 set encoding=UTF-8
+
+"Adding custom colors for indent-guides plugin
+
+"Automatically color indentation using indent-guides plugin
+let g:indent_guides_auto_colors = 0
+autocmd VimEnter,Colorscheme * :hi IndentGuidesOdd  guibg=black   ctermbg=0
+autocmd VimEnter,Colorscheme * :hi IndentGuidesEven guibg=darkgrey ctermbg=1

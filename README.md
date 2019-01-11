@@ -4,6 +4,15 @@ Vim Configuration
 ## Idea From
 Copied from [synchronizing plugins with git and pathogen](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/)
 
+## How to apply
+1. git clone git@github.com:KraTos5589/vim.git ~/.vim
+2. ln -s ~/.vim/vimrc ~/.vimrc
+3. cd ~/.vim
+4. git submodule init
+5. git submodule update
+
+# Updating Plugins
+* git submodule foreach git pull origin master
 
 ### Plugins
 ---

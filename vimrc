@@ -50,8 +50,7 @@ syntax on
 " Pathogen
 execute pathogen#infect()
 
-color molokai
-
+colorscheme dracula
 " How can I open a NERDTree automatically when vim starts up?
 "autocmd vimenter * NERDTree
 " Open NERDTree with Ctrl+n
